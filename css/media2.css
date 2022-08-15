@@ -1,0 +1,8 @@
+@media (max-width: 74em) {
+  .about {
+    display: none;
+  }
+  .work {
+    display: none;
+  }
+}
