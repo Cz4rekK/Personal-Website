@@ -1,0 +1,11 @@
+@media (max-width: 100em) {
+  .grid--4-cols {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .section-hero {
+    height: 50vh;
+  }
+  .footer-links {
+    margin-right: ;
+  }
+}
