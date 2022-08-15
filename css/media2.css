@@ -1,8 +1,13 @@
 @media (max-width: 74em) {
   .about {
-    display: none;
+    visibility: hidden;
   }
   .work {
-    display: none;
+    visibility: hidden;
+  }
+  .contact {
+    position: absolute;
+    top: 2rem;
+    right: 5rem;
   }
 }
